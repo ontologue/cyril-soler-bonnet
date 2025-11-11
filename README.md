@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ontologue.fr/assets/logo-ontologue.png" alt="Ontologue" width="200"/>
+</p>
+
 # CYRIL SOLER-BONNET
 **Ontologist & Conceptual Architect**
 
