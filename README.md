@@ -7,7 +7,7 @@ cyril@ontologue.fr | [ontologue.fr](https://ontologue.fr) | Provence, France (Re
 
 ## POSITIONING
 
-Still working on becoming a leibnizian "philosophe à notions complètes" — which requires genuine independence and real-world experimentation. The path followed by my carrer is a broken line that proves to be a Peano curve capable of filling the AI plane. An unusual life that happens to have made me a fully functional ontologist. 
+Still working on becoming a Leibnizian "philosophe à notions complètes" — which requires genuine independence and real-world experimentation. My career's broken line proves to be a Peano curve, gradually filling the entire AI plane. This unusual life has made me a fully functional ontologist. 
 
 *I spent 20 years preparing to be an ontologist before the job title existed.*
 
@@ -24,10 +24,9 @@ Still working on becoming a leibnizian "philosophe à notions complètes" — wh
 - Wikidata entity creation and Schema.org implementation
 - Developing "chunk-friendly" documentation strategies for AI consumption
 
-### **AI Conversation Designer** | Gethybrid3 & Knowledgehook | 2024-Present
+### **AI Conversation Designer** | Gethybrid3 | 2024-Present
 - 700+ hours training Claude AI on logical reasoning and knowledge representation
 - Cross-domain conceptual mapping and inference patterns
-- Educational content adaptation (mathematics, French/English)
 
 ---
 
@@ -37,31 +36,32 @@ Still working on becoming a leibnizian "philosophe à notions complètes" — wh
 - Ranked 10th out of 3,000+ candidates
 - French national competitive examination for secondary education
 - Validates ability to make complex philosophical concepts teachable
-- 
+  
 ### **Master's in Philosophy** | Sorbonne, Paris | 1997
 - Thesis: *"Deleuze expliqué par lui-même"* (Director: Hélène Védrine)
 - Minor focus: Formal logic, propositional calculus, foundations of mathematics
 - Deep dive into concept creation and philosophical system-building
 
 ### **Talmudic Studies** | 1988-1995
-- Yeshivat Kol Torah, Jerusalem
-- Yeshivat Chaaré Torah, Paris  
-- Advanced biblical and Talmudic argumentation
-- Legal reasoning across multiple interpretive frameworks
+- Yéchiva des étudiants, Strasbourg, France
+- Yeshivat Slobodka, Bnei Brak, Israel  
+- Yeshiva Rabbi Chaim Berlin, Brooklin, New York
+- Legal reasoning and hermeneutic induction across multiple interpretive frameworks
 
 ---
 
 ## APPLIED EXPERIENCES
 
 ### **Philosophical Publisher & Editor** | Éditions Localement Transcendantes | 2019-Present
-- Publishing critical philosophical texts with complete editorial chain mastery
-- **Published works demonstrating range:**
-  - [Whitehead's Concept of Nature](https://localement-transcendantes.fr/livres/en/whitehead-concept-nature) - English critical edition
-  - [Couturat's Mathematical Principles](https://localement-transcendantes.fr/livres/epist/couturat-principes-mathematiques) - Foundations of logic
-  - [Nature du Réel](https://localement-transcendantes.fr/livres/nature-du-reel) - Metaphysical investigations
-- Typography, translation, critical apparatus, web implementation
+- Complete editorial chain mastery: from recreating obsolete mathematical notation to web implementation
+- **Selected publications:**
+  - [Couturat's Les Principes des Mathématiques](https://localement-transcendantes.fr/livres/epist/couturat-principes-mathematiques) - Early critical synthesis of Russell and Frege's logicist program, with devastating critique of Kantian mathematics
+  - [Whitehead's Concept of Nature](https://localement-transcendantes.fr/livres/en/whitehead-concept-nature) - Including first English translation of his 1916 relational space theory (required recreating extinct logical symbols...)
+- [Nature du Réel](https://localement-transcendantes.fr/livres/nature-du-reel) - Contemporary investigation of the epistemology of Physics
+- Focus: Making foundational mathematical-philosophical texts accessible while preserving technical rigor
 
-### **International Industrial Worker** | 2001-2003
+
+### **Industrial Worker of the World** | 2001-2003
 - Temporary industrial assignments across France (welder, maintenance tech, forklift operator)
 - AFPA Rouen: Industrial maintenance training (electrical, mechanical, pneumatic, hydraulic systems)
 - Crown Cork Company, Rouen | 2002 - Maintenance technician
@@ -87,9 +87,9 @@ Still working on becoming a leibnizian "philosophe à notions complètes" — wh
 
 **Ontology Engineering**: OWL, RDF, SPARQL, SHACL (self-taught through W3C specifications)  
 **Knowledge Representation**: Wikidata, Schema.org, JSON-LD  
-**Implementation**: Git, VS Code, Cloudflare Workers, Vector databases  
-**AI/RAG Systems**: Embeddings, semantic search, chunk optimization  
-**Languages**: French (native), English (bilingual), Hebrew (fluent), German (elementary)
+**Implementation**: Git, VS Code, Cloudflare Workers, PostgreSQL + pgvector, Drizzle ORM  
+**AI/RAG Systems**: Embeddings, semantic search, chunk optimization, vector databases    
+**Languages**: French (native), English (bilingual), Hebrew (bilingual), German (elementary)
 
 ---
 
@@ -111,9 +111,11 @@ Still working on becoming a leibnizian "philosophe à notions complètes" — wh
 ## SELECT PROJECTS
 
 **TUIO Semantic Infrastructure** (2024-Present)
-- Comprehensive ontology for educational payment ecosystem
-- 146-page FAQ system using RAG architecture
-- Wikidata presence establishment for market visibility
+- Comprehensive ontology for educational payment ecosystem (20,000+ users)
+- **263-page automated FAQ system** using RAG architecture with PostgreSQL/pgvector
+- Successfully scraped and indexed 263 pages (170,000+ words) from 3 domains
+- Wikidata entity creation for complete organizational ecosystem
+- Building production-ready knowledge graph with Cloudflare Workers + Vectorize
 
 **Philosophical Technology Integration**
 - Building bridges between continental philosophy and computational ontologies
