@@ -7,6 +7,7 @@
 
 cyril@ontologue.fr | [ontologue.fr](https://ontologue.fr) | Provence, France (Remote)
 
+📄 [Download PDF version](./README.pdf)
 ---
 
 ## POSITIONING
