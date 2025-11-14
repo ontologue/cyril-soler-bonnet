@@ -5,7 +5,7 @@
 # CYRIL SOLER-BONNET
 **Ontologist & Conceptual Architect**
 
-cyril@ontologue.fr | [ontologue.fr](https://ontologue.fr) | Provence, France (Remote)
+[cyril@ontologue.fr](mailto:cyril@ontologue.fr) | [ontologue.fr](https://ontologue.fr) | [LinkedIn](https://linkedin.com/in/cyril-soler-bonnet) | Puyméras, Provence, France (Remote)
 
 📄 [Download PDF version](./README.pdf)
 ---
